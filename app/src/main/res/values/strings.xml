@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjetTaxi_Map_Test</string>
+    <string name="map_key" translatable="false">AIzaSyCB8YFumeBrk0CW0FHbYO4gnVIV2P_QVN4</string>
+</resources>
